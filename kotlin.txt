@@ -1,0 +1,3 @@
+cat >> kotlin.txt
+jose4912
+lam-par-d999@hotmail.com
